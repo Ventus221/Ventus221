@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ventus221
-- 👀 I’m interested in Computational Biology
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any project I can help with, mostly in python and java
-- 📫 How to reach me ... mail - jaybharti3000@pm.me
+- 👀 I’m interested in Computational Biology,
+- 🌱 I’m currently learning Python, and I'm proficient in Java,
+- 💞️ I'm a Data Privacy Enthusiast,
+- 📫 To reach me mail - jaybharti3000@pm.me
